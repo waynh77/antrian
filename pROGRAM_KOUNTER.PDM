@@ -1,0 +1,224 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=c:\setup antrian
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\Program Files\Common Files\Data Dynamics\ActiveReports Pro\arpro2.dll=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\Program Files\Common Files\System\ado\msado27.tlb=
+C:\WINDOWS\system32\arpro2.dll=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCT2.OCX=
+C:\WINDOWS\system32\MSWINSCK.OCX=
+C:\WINDOWS\system32\tdbgpp.dll=
+C:\WINDOWS\system32\todgub6.dll=
+C:\WINDOWS\system32\todg6.ocx=
+C:\WINDOWS\system32\MSADODC.OCX=
+C:\WINDOWS\system32\MSDATGRD.OCX=
+C:\WINDOWS\system32\comct332.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|Standard Setup Package 1|Files Added]
+d:\doks\my b\software antrian\program\database\antrian.mdb=
+d:\doks\my b\software antrian\program\suara\a.wav=
+d:\doks\my b\software antrian\program\suara\antrian.wav=
+d:\doks\my b\software antrian\program\suara\b.wav=
+d:\doks\my b\software antrian\program\suara\belas.wav=
+d:\doks\my b\software antrian\program\suara\c.wav=
+d:\doks\my b\software antrian\program\suara\cs.wav=
+d:\doks\my b\software antrian\program\suara\delapan.wav=
+d:\doks\my b\software antrian\program\suara\dua.wav=
+d:\doks\my b\software antrian\program\suara\empat.wav=
+d:\doks\my b\software antrian\program\suara\enam.wav=
+d:\doks\my b\software antrian\program\suara\kekonter.wav=
+d:\doks\my b\software antrian\program\suara\lima.wav=
+d:\doks\my b\software antrian\program\suara\puluh.wav=
+d:\doks\my b\software antrian\program\suara\ratus.wav=
+d:\doks\my b\software antrian\program\suara\satu.wav=
+d:\doks\my b\software antrian\program\suara\sebelas.wav=
+d:\doks\my b\software antrian\program\suara\sembilan.wav=
+d:\doks\my b\software antrian\program\suara\sepuluh.wav=
+d:\doks\my b\software antrian\program\suara\seratus.wav=
+d:\doks\my b\software antrian\program\suara\smbilan.wav=
+d:\doks\my b\software antrian\program\suara\teler.wav=
+d:\doks\my b\software antrian\program\suara\tiga.wav=
+d:\doks\my b\software antrian\program\suara\tujuh.wav=
+
+[Package|Standard Setup Package 1|Files Removed]
+c:\windows\system32\msvbvm60.dll=
+c:\windows\system32\oleaut32.dll=
+c:\windows\system32\olepro32.dll=
+c:\windows\system32\asycfilt.dll=
+c:\windows\system32\stdole2.tlb=
+c:\program files\microsoft visual studio\vb98\wizards\pdwizard\redist\comcat.dll=
+
+[Package|Standard Setup Package 1|Files In Project]
+D:\DOKS\My B\software antrian\Program\PROGRAM\pROGRAM_KOUNTER.exe=Yes
+C:\WINDOWS\system32\MSVBVM60.dll=No
+C:\WINDOWS\system32\oleaut32.dll=No
+C:\WINDOWS\system32\olepro32.dll=No
+C:\WINDOWS\system32\asycfilt.dll=No
+C:\WINDOWS\system32\stdole2.tlb=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=No
+C:\Program Files\Common Files\System\ado\msado27.tlb=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\comct332.ocx=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\todg6.ocx=Yes
+C:\WINDOWS\system32\todgub6.dll=Yes
+C:\WINDOWS\system32\tdbgpp.dll=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\MSWINSCK.OCX=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\Vb6stkit.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\DOKS\My B\software antrian\Program\database\antrian.mdb=Yes
+D:\DOKS\My B\software antrian\Program\suara\a.wav=Yes
+D:\DOKS\My B\software antrian\Program\suara\antrian.wav=Yes
+D:\DOKS\My B\software antrian\Program\suara\b.wav=Yes
+D:\DOKS\My B\software antrian\Program\suara\belas.wav=Yes
+D:\DOKS\My B\software antrian\Program\suara\c.wav=Yes
+D:\DOKS\My B\software antrian\Program\suara\cs.wav=Yes
+D:\DOKS\My B\software antrian\Program\suara\delapan.wav=Yes
+D:\DOKS\My B\software antrian\Program\suara\dua.wav=Yes
+D:\DOKS\My B\software antrian\Program\suara\empat.wav=Yes
+D:\DOKS\My B\software antrian\Program\suara\enam.wav=Yes
+D:\DOKS\My B\software antrian\Program\suara\kekonter.wav=Yes
+D:\DOKS\My B\software antrian\Program\suara\lima.wav=Yes
+D:\DOKS\My B\software antrian\Program\suara\puluh.wav=Yes
+D:\DOKS\My B\software antrian\Program\suara\ratus.wav=Yes
+D:\DOKS\My B\software antrian\Program\suara\satu.wav=Yes
+D:\DOKS\My B\software antrian\Program\suara\sebelas.wav=Yes
+D:\DOKS\My B\software antrian\Program\suara\sembilan.wav=Yes
+D:\DOKS\My B\software antrian\Program\suara\sepuluh.wav=Yes
+D:\DOKS\My B\software antrian\Program\suara\seratus.wav=Yes
+D:\DOKS\My B\software antrian\Program\suara\smbilan.wav=Yes
+D:\DOKS\My B\software antrian\Program\suara\teler.wav=Yes
+D:\DOKS\My B\software antrian\Program\suara\tiga.wav=Yes
+D:\DOKS\My B\software antrian\Program\suara\tujuh.wav=Yes
+C:\WINDOWS\system32\arpro2.dll=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+D:\DOKS\My B\software antrian\Program\PROGRAM\pROGRAM_KOUNTER.exe=$(AppPath)
+C:\Program Files\Common Files\System\ado\msado27.tlb=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\comct332.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\todg6.ocx=$(WinSysPath)
+C:\WINDOWS\system32\todgub6.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\tdbgpp.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\Program Files\Common Files\Data Dynamics\ActiveReports Pro\arpro2.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSWINSCK.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\Vb6stkit.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\DOKS\My B\software antrian\Program\database\antrian.mdb=$(AppPath)
+D:\DOKS\My B\software antrian\Program\suara\a.wav=$(AppPath)
+D:\DOKS\My B\software antrian\Program\suara\antrian.wav=$(AppPath)
+D:\DOKS\My B\software antrian\Program\suara\b.wav=$(AppPath)
+D:\DOKS\My B\software antrian\Program\suara\belas.wav=$(AppPath)
+D:\DOKS\My B\software antrian\Program\suara\c.wav=$(AppPath)
+D:\DOKS\My B\software antrian\Program\suara\cs.wav=$(AppPath)
+D:\DOKS\My B\software antrian\Program\suara\delapan.wav=$(AppPath)
+D:\DOKS\My B\software antrian\Program\suara\dua.wav=$(AppPath)
+D:\DOKS\My B\software antrian\Program\suara\empat.wav=$(AppPath)
+D:\DOKS\My B\software antrian\Program\suara\enam.wav=$(AppPath)
+D:\DOKS\My B\software antrian\Program\suara\kekonter.wav=$(AppPath)
+D:\DOKS\My B\software antrian\Program\suara\lima.wav=$(AppPath)
+D:\DOKS\My B\software antrian\Program\suara\puluh.wav=$(AppPath)
+D:\DOKS\My B\software antrian\Program\suara\ratus.wav=$(AppPath)
+D:\DOKS\My B\software antrian\Program\suara\satu.wav=$(AppPath)
+D:\DOKS\My B\software antrian\Program\suara\sebelas.wav=$(AppPath)
+D:\DOKS\My B\software antrian\Program\suara\sembilan.wav=$(AppPath)
+D:\DOKS\My B\software antrian\Program\suara\sepuluh.wav=$(AppPath)
+D:\DOKS\My B\software antrian\Program\suara\seratus.wav=$(AppPath)
+D:\DOKS\My B\software antrian\Program\suara\smbilan.wav=$(AppPath)
+D:\DOKS\My B\software antrian\Program\suara\teler.wav=$(AppPath)
+D:\DOKS\My B\software antrian\Program\suara\tiga.wav=$(AppPath)
+D:\DOKS\My B\software antrian\Program\suara\tujuh.wav=$(AppPath)
+C:\WINDOWS\system32\arpro2.dll=$(WinSysPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+D:\DOKS\My B\software antrian\Program\PROGRAM\pROGRAM_KOUNTER.exe=No
+D:\DOKS\My B\software antrian\Program\database\antrian.mdb=No
+D:\DOKS\My B\software antrian\Program\suara\a.wav=No
+D:\DOKS\My B\software antrian\Program\suara\antrian.wav=No
+D:\DOKS\My B\software antrian\Program\suara\b.wav=No
+D:\DOKS\My B\software antrian\Program\suara\belas.wav=No
+D:\DOKS\My B\software antrian\Program\suara\c.wav=No
+D:\DOKS\My B\software antrian\Program\suara\cs.wav=No
+D:\DOKS\My B\software antrian\Program\suara\delapan.wav=No
+D:\DOKS\My B\software antrian\Program\suara\dua.wav=No
+D:\DOKS\My B\software antrian\Program\suara\empat.wav=No
+D:\DOKS\My B\software antrian\Program\suara\enam.wav=No
+D:\DOKS\My B\software antrian\Program\suara\kekonter.wav=No
+D:\DOKS\My B\software antrian\Program\suara\lima.wav=No
+D:\DOKS\My B\software antrian\Program\suara\puluh.wav=No
+D:\DOKS\My B\software antrian\Program\suara\ratus.wav=No
+D:\DOKS\My B\software antrian\Program\suara\satu.wav=No
+D:\DOKS\My B\software antrian\Program\suara\sebelas.wav=No
+D:\DOKS\My B\software antrian\Program\suara\sembilan.wav=No
+D:\DOKS\My B\software antrian\Program\suara\sepuluh.wav=No
+D:\DOKS\My B\software antrian\Program\suara\seratus.wav=No
+D:\DOKS\My B\software antrian\Program\suara\smbilan.wav=No
+D:\DOKS\My B\software antrian\Program\suara\teler.wav=No
+D:\DOKS\My B\software antrian\Program\suara\tiga.wav=No
+D:\DOKS\My B\software antrian\Program\suara\tujuh.wav=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Aplikasi Counter Antrian
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=c:\setup antrian
+ProjectFolder=D:\DOKS\My B\software antrian\Program\PROGRAM
+ServerSideCab=
+File1=c:\setup antrian\setup.exe
+File2=c:\setup antrian\Setup.Lst
+File3=c:\setup antrian\pROGRAM_KOUNTER.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Aplikasi Counter
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Aplikasi Counter]
+Icon1=pROGRAM_KOUNTER.exe
+Title1=Aplikasi Counter
+StartIn1=$(AppPath)
+Key1=Icon1
